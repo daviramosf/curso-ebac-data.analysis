@@ -8,3 +8,5 @@ MÓDULO 3 - Fluxo condicional e Repetição: Uso de 'If/Elif/Else' ; 'Try/Except
 MÓDULO 4 - Arquivos e Funções: Comandos 'With' e 'open' / modos de leitura de arquivos(.csv) 'w' e 'a' / O Básico de funções: Escopo, parâmetros e Retorno.
 
 MÓDULO 5 - Programaçãoo funcional: Funções anonimas(lambda); Função: map, filter e reduce.
+
+MÓDULO 6 - Programação Orientada a Objeto: Classes, Objeto e Herança.
